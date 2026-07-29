@@ -24,7 +24,16 @@ custom keyframe animations, smooth button interactions, and responsive UI struct
 ## 📁 File Structure
 
 ```text
-├── 081b29.png      # Background image/texture asset[cite: 3]
-├── page.html        # Main HTML layout[cite: 4]
-├── style.css        # Custom styles and animations[cite: 3]
-└── README.md        # Project documentation
+├── PersonalPortfolio  
+    ├── 081b29.png      # Background image/texture asset[cite: 3]
+    ├── page.html        # Main HTML layout[cite: 4]
+    ├── style.css        # Custom styles and animations[cite: 3]
+    └── README.md        # Project documentation
+├── 3D Rotation Effect Using CSS Only
+    ├── Rotation3DTital.html
+    ├── ColdBeverageCan.png
+    ├── RotationEffect3DStyle.css
+├── websideForMe
+    ├── webside.html
+    ├── style.css
+    ├── img
